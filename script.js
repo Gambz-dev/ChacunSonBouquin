@@ -8,7 +8,6 @@ let quotes=[
     'Mauvaise nouvelle (mais pas trop)',
     'Extrait d\'une ancienne loi',
     'Derniers mots célèbres',
-    'Extrait d\'un livre TRAFFIC',
     'Extrait d\'un manuel d\'instructions',
     'Message dans une bouteille à la mer',
     'La partie d’un film pour enfants où l’enfant est plus intelligent que l’adulte',
