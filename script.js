@@ -125,7 +125,7 @@ let quotes=[
     'Le nom d\'une grande voiture de sport automobile',
     'Le titre d\'un livre d\'auto-assistance',
     'Le slogan d\'une radio',
-    'Une affirmation qui serait probablement réfutée si vous l\'établissez comme un fait',
+    'Une affirmation qui serait probablement réfutée si vous l\'établissiez comme un fait',
     'Ce serait un moyen de paiement dans une société post-apocalyptique',
     'Texte graffiti',
     'Étranges premiers mots d\'un bébé',
